@@ -1,0 +1,1 @@
+web: gunicorn cosmetic_shopping.wsgi --log-file -
